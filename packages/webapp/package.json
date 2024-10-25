@@ -58,7 +58,7 @@
     "flat": "^5.0.2",
     "formik": "^2.2.5",
     "history": "4.10.1",
-    "http-proxy-middleware": "^1.0.0",
+    "http-proxy-middleware": "^2.0.7",
     "jest": "24.9.0",
     "jest-environment-jsdom-fourteen": "1.0.1",
     "jest-resolve": "24.9.0",
